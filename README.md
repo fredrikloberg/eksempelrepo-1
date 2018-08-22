@@ -2,5 +2,5 @@
 
 ---
 
-Eksempelrepo til [GIT](https://git-scm.com/)-kurs!
+Eksempelrepo til git-kurs 🎉
 
