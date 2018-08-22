@@ -2,5 +2,5 @@
 
 ---
 
-Eksempelrepo til git-kurs!
+Eksempelrepo til git-kurs 🎉
 
